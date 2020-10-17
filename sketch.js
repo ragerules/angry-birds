@@ -23,8 +23,8 @@ function setup(){
    pig2 = new Grepigs(810,150);
    plank2 = new PLank(810,120,280,PI/2);
    box5 = new Box(810,100,50,50);
-   plank3 = new PLank(810,60,150,PI/7);
-   plank4 = new PLank(810,60,150,-PI/7);
+   plank3 = new PLank(860,60,150,-PI/7);
+   plank4 = new PLank(760,60,150,PI/7);
    red = new Angrybird(300,100);
 }
 
